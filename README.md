@@ -1,0 +1,2 @@
+# arrayTraining
+practice with Arrays
